@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://imgur.com/h75BeHs",[COLOR orange][B]PARAMOUNT [/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
-https://sinalpublico.com/player3/mega5.php?canal=paramount&canals=https://encrypted-encrypted-encrypted-encrypted-encrypted-encrypted.m3u9.ml/a2/hls1/paramount-bk2/__index.m3u8?mu3zAQc9HC3GbwJq=cFffrAykqxFIpBAf-6piRQ&3U1G7qaTxrPbalZnEx=1677490280
-
+https://sinalpublico.com/player3/ch.php?canal=paramount
 SCRIPT:
 #EXTINF:-1 tvg-name="" tvg-logo=" group-title="",
