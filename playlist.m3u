@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://imgur.com/h75BeHs",[COLOR orange][B]PARAMOUNT [/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+#EXTINF:-1, tvg-logo="http://imgur.com/h75BeHs",[COLOR orange][B]PARAMOUNT [/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
 https://dev-iptv.web.app/BR
+#EXTINF:-1,Um Herói do Coração
+http://grtsvk.life:80/01927412131/47068262283/256520
+#EXTINF:-1, Ta no Ar: A TV na TV
+http://grtsvk.life:80/01927412131/47068262283/53948
