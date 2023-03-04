@@ -33,8 +33,6 @@ https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
 #EXTINF:-1, TNT Sports 2 Brazil
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 
-#EXTINF:-1, G-1 SP
-https://m3u9.ml/a2/hls1/bobosp/__index.m3u8?mu3zAQc9HC3GbwJq=1hISQKocSmRQl0hiJKoTww&3U1G7qaTxrPbalZnEx=1677974010
 #EXTINF:-1, TNT Sports 3 Brazil
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 #EXTINF:-1, TNT Sports 4 Brazil
@@ -54,6 +52,10 @@ https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
 #EXTINF:-1, Aleatorio
 https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1, G-1 SP
+https://m3u9.ml/a2/hls1/bobosp/__index.m3u8?mu3zAQc9HC3GbwJq=1hISQKocSmRQl0hiJKoTww&3U1G7qaTxrPbalZnEx=1677974010
 
+#EXTINF:-1, G-1 SP
+https://m3u9.ml/a2/hls1/bobosp/__index.m3u8?mu3zAQc9HC3GbwJq=vnb0QarIAIlvmiM9aiIV0A&3U1G7qaTxrPbalZnEx=1677974619
 
 
