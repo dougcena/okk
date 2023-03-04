@@ -8,3 +8,5 @@ https://input.futebolgratis.net:8088/hls/livechannel2.m3u8
 hhttps://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
 #EXTINF:-1,Fut3b0l 04
 https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
+#EXTINF:-1,Rede canais
+https://sinalpublico.com/player3/ch.php?canal=telecinepremium
