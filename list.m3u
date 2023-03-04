@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="flussonicmediaserver_v22.04"
+#EXTINF:-1,1000 X Hora Tv
+http://zeusplay.life:80/tatiane1/tatiane1/20488
+#EXTINF:-1,24 Horas
+https://futebolgratis.io/index.php/player/canal01
+#EXTINF:-1,24H  PARAFERNALHA YOUTUBE
+https://futebolgratis.io/index.php/player/canal02
+#EXTINF:-1,24H  WEBBULLYING YOUTUBE
+https://futebolgratis.io/index.php/player/canal01
