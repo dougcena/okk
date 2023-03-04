@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="flussonicmediaserver_v22.04"
-#EXTINF:-1,1000 X Hora Tv
-http://zeusplay.life:80/tatiane1/tatiane1/20488
-#EXTINF:-1,24 Horas
-https://futebolgratis.io/index.php/player/canal01
-#EXTINF:-1,24H  PARAFERNALHA YOUTUBE
-https://futebolgratis.io/index.php/player/canal02
-#EXTINF:-1,24H  WEBBULLYING YOUTUBE
-https://futebolgratis.io/index.php/player/canal01
+#EXTINF:-1,Fut3b0l 01
+https://input.futebolgratis.net:8088/hls/livechannel1.m3u8
+#EXTINF:-1, Fut3b0l 02
+https://input.futebolgratis.net:8088/hls/livechannel2.m3u8
+#EXTINF:-1,Fut3b0l 03
+hhttps://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
+#EXTINF:-1,Fut3b0l 04
+https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
